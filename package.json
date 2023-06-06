@@ -1,0 +1,35 @@
+{
+  "name": "@scrapeit-cloud/shopify-api",
+  "version": "1.0.0",
+  "description": "Real-Time Shopify APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scrapeit-Cloud/shopify-api.git"
+  },
+  "keywords": [
+    "shopify api",
+    "shopify",
+    "shopify scraper",
+    "shopify scraping",
+    "scrapeit",
+    "scrape-it.cloud"
+  ],
+  "author": "Roman Milyushkevich <roman@scrape-it.cloud>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Scrapeit-Cloud/shopify-api/issues"
+  },
+  "homepage": "https://github.com/Scrapeit-Cloud/shopify-api#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.9",
+    "@typescript-eslint/parser": "^5.59.9",
+    "eslint": "^8.42.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "typescript": "^5.1.3"
+  }
+}
